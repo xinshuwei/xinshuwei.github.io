@@ -1,7 +1,7 @@
 # Site settings
 title: Chris Blog
 SEOTitle: 书伟的博客 | Chris Blog
-header-img: img/avatar-chris.jpg  
+header-img: /img/avatar-chris.jpg  
 email: 644238399@qq.com
 description: "关于嵌入式、Linux、上位机等开发技术分享|，Web & Mobile Lover，Embedded Engineer，UI Designer | 这里是 书伟 的个人博客，与你一起发现更大的世界。"
 keyword: "书伟, Crhis, xinshuwei, 书伟的博客, 博客, 个人网站"
