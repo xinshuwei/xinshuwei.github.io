@@ -9,7 +9,6 @@ url: "https://xinshuwei.top
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
-
 # SNS settings
 RSS: false
 weibo_username:     xinshuwei
@@ -60,8 +59,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: xinshuwei.top
+#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+#ga_domain: xinshuwei.top
 
 
 # Sidebar settings
